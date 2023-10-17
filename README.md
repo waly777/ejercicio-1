@@ -1,3 +1,8 @@
 instruction
 
-esta es otra modificacion
+ejercicio  taller de git
+aprenderas muchas cosas
+aprenderas muchas cosas
+aprenderas muchas cosas
+aprenderas muchas cosas
+aprenderas muchas cosas
