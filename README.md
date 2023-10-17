@@ -1,7 +1,3 @@
 instruction
 
-- u untracked
-- a addes
-
-otras cosas 
-una linea
+esta es otra modificacion
